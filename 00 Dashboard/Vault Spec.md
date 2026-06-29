@@ -8,11 +8,9 @@
 
 ## Project Goal
 
-Build a complete, long-term Computer Science knowledge base in Obsidian using Coding Interview
-University as the curriculum backbone.
+Build a complete, long-term Computer Science knowledge base in Obsidian using Coding Interview University as the curriculum backbone.
 
-The goal is not interview preparation. The goal is deep, lasting Computer Science knowledge
-that grows with you for years.
+The goal is not interview preparation. The goal is deep, lasting Computer Science knowledge that grows with you for years.
 
 ---
 
@@ -121,8 +119,7 @@ a live Dataview query showing completion status.
 **Does not contain:** Deep explanations.
 
 One Map per major topic. The Map for Data Structures links to every data structure note
-and shows how many are complete. Implemented using Folder Notes — each Knowledge subfolder
-has an attached Map note.
+and shows how many are complete. Implemented using Folder Notes — each Knowledge sub-folder has an attached Map note.
 
 ---
 
@@ -231,11 +228,11 @@ problems inside a knowledge note.
 
 Every note has a `status` field in its frontmatter. Only these four values are valid:
 
-| Value | Meaning |
-|---|---|
-| `Draft` | Created, minimal or no content yet |
-| `In Progress` | Being actively written |
-| `Complete` | Content is finished and reviewed |
+| Value          | Meaning                             |
+| -------------- | ----------------------------------- |
+| `Draft`        | Created, minimal or no content yet  |
+| `In Progress`  | Being actively written              |
+| `Complete`     | Content is finished and reviewed    |
 | `Needs Review` | Flagged for correction or expansion |
 
 ---
@@ -300,7 +297,7 @@ The actual content — links, descriptions, ratings — stays in `06 Resources/`
 
 ## Progress Tracking
 
-Progress is tracked automatically using Dataview queries in the Dashboard and Map notes.
+Progress is tracked automatically using Data view queries in the Dashboard and Map notes.
 No manual percentage tracking. The Dashboard always reflects the real state of the vault.
 
 Example query — notes by status across all Knowledge:
@@ -472,10 +469,3 @@ If reading it takes more than ten minutes, split it.
 - Excalidraw for all diagrams — no ASCII art
 
 ---
-
-## Changelog
-
-| Version | Change |
-|---|---|
-| v1.0 | Initial spec written |
-| v2.0 | Simplified numbering system. Two-tier template system. Status values defined. Tag taxonomy added. Four-layer architecture with Maps. Practice contradiction resolved. Docker and Kubernetes removed. Plugin usage documented. Intermediate milestones added. Real World Examples placeholder removed. |
