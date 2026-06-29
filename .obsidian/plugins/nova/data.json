@@ -1,0 +1,67 @@
+{
+  "aiProviders": {
+    "claude": {
+      "apiKey": ""
+    },
+    "openai": {
+      "apiKey": "",
+      "baseUrl": "https://api.openai.com/v1"
+    },
+    "google": {
+      "apiKey": ""
+    },
+    "ollama": {
+      "baseUrl": "http://localhost:11434",
+      "model": "",
+      "models": [],
+      "modelsLastRefreshed": null,
+      "contextSize": 32000
+    },
+    "openai-compatible": {
+      "apiKey": "",
+      "baseUrl": "",
+      "model": "",
+      "models": [],
+      "modelsLastRefreshed": null,
+      "contextSize": 32000
+    }
+  },
+  "platformSettings": {
+    "desktop": {
+      "selectedModel": ""
+    },
+    "mobile": {
+      "selectedModel": "none"
+    }
+  },
+  "general": {
+    "defaultTemperature": 0.7,
+    "defaultMaxTokens": 4000,
+    "showReleaseNotes": true,
+    "lastSeenVersion": "1.7.1",
+    "customPromptHistory": []
+  },
+  "autoContext": {
+    "includeOutgoing": true,
+    "includeBacklinks": false
+  },
+  "licensing": {
+    "supernovaLicenseKey": ""
+  },
+  "commands": {
+    "suggestionMode": "balanced",
+    "responseTime": "normal",
+    "hideWhileTyping": true,
+    "enabledDocumentTypes": []
+  },
+  "writingAnalysis": {
+    "enabled": true,
+    "longSentenceThreshold": 25,
+    "veryLongSentenceThreshold": 40,
+    "showStatsPanel": true
+  },
+  "dashboard": {
+    "excludeFolders": [],
+    "targetReadabilityGrade": 8
+  }
+}
