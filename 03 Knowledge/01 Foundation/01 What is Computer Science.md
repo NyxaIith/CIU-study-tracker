@@ -1,7 +1,9 @@
 ---
 title: What is Computer Science
 status: Complete
-tags: [topic/foundation, type/concept]
+tags:
+  - topic/foundation
+  - type/concept
 created: 2025-06-30
 ---
 

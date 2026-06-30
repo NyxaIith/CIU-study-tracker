@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09749be5e347c2d5",
+        "id": "108f358a42541dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "77bd6db31ca49b08",
+            "id": "e24b49c984b6a61d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Maps/Foundation Map.md",
-                "mode": "source",
+                "file": "03 Knowledge/01 Foundation/01 What is Computer Science.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundation Map"
+              "title": "01 What is Computer Science"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#flashcard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copilot/copilot-custom-prompts/Make longer.md",
+                "file": "03 Knowledge/01 Foundation/01 What is Computer Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Make longer"
+              "title": "Backlinks for 01 What is Computer Science"
             }
           },
           {
@@ -213,14 +213,23 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "93cc3e2b3774323c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 513.5,
-    "collapsed": true
+    "width": 513.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,14 +248,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77bd6db31ca49b08",
+  "active": "e24b49c984b6a61d",
   "lastOpenFiles": [
-    "01 Roadmaps/Phase 01 — Foundation.md",
-    "00 Dashboard/Vault Spec.md",
-    "03 Knowledge/01 Foundation/07 Pseudocode.md",
-    "00 Dashboard/Dashboard.md",
-    "03 Knowledge/01 Foundation/04 Boolean Logic.md",
+    "Untitled.md",
     "03 Knowledge/01 Foundation/01 What is Computer Science.md",
+    "Excalidraw/Drawing 2026-06-30 16.51.56.excalidraw.md",
+    "Excalidraw",
+    "01 Roadmaps/Phase 01 — Foundation.md",
+    "00 Dashboard/Dashboard.md",
+    "00 Dashboard/Vault Spec.md",
+    "03 Knowledge/01 Foundation/09 How a CPU Works.md",
+    "Untitled.canvas",
+    "03 Knowledge/01 Foundation/11 What is an Operating System.md",
+    "03 Knowledge/01 Foundation/10 Memory Hierarchy.md",
+    "03 Knowledge/01 Foundation/12 How Code Becomes a Program.md",
+    "2025-06-30.md",
+    "02 Maps/Foundation Map.md",
+    "03 Knowledge/01 Foundation/06 What is an Algorithm.md",
+    "03 Knowledge/01 Foundation/05 Logic Gates.md",
+    "03 Knowledge/01 Foundation/07 Pseudocode.md",
+    "03 Knowledge/01 Foundation/04 Boolean Logic.md",
     "03 Knowledge/01 Foundation/02 Binary Numbers.md",
     "08 Templates/Full Template.md",
     "08 Templates/Lite Template.md",
@@ -257,18 +278,8 @@
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "Coding-University-Interview/cui-study-tracker.md",
-    "Coding-University-Interview/Untitled.md",
     "Coding-University-Interview"
   ]
 }
